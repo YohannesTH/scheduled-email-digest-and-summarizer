@@ -25,7 +25,7 @@ Say goodbye to inbox overload—get the key takeaways delivered straight to your
 
 This diagram illustrates the step-by-step flow of the automation:
 
-[`scheduled_email_digest_workflow.json`](./scheduled_email_digest_workflow.json)
+(./scheduled_email_digest_workflow.json)
 
 ---
 
